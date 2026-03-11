@@ -9,5 +9,4 @@ This program can take the argument as a relative path to a text file and will di
 1. have python 3 installed
 2. copy this repo locally
 3. navigate to the bookbot directory using your terminal/command line
-4. use the following to execute the program
-     Usage: `python3 main.py <path_to_book>`
+4. use the following to execute the program: `python3 main.py <path_to_book>`
